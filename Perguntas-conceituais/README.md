@@ -11,6 +11,8 @@ Abaixo você verá 3 dúvidas conceituais, com suas palavras responda cada uma d
 
   Queria saber qual seria uma saída para evitar esse número de consultas ao banco.
 
+  *Resposta:* https://gist.github.com/Samnny/f6d9550dad4f62c8bcc074aeb2c6fd3c
+
 * 2 - Fiquei com dúvida de qual seria a melhor forma de fazer, seguindo os princípios de DDD e Clean Arch.
 
   Por exemplo, em uma entidade Pedidos, onde tenha um relacionamento com Cliente, qual melhor forma de retornar no UseCase de busca (search) dos pedidos os dados de Pedido e Clientes junto.
